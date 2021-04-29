@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode_面试题 01.04._回文排列_w1", "leetcode_面试题 01.04._回文排列_w1.vcxproj", "{3966AC16-A89A-4612-A081-55E4ADFE53A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3966AC16-A89A-4612-A081-55E4ADFE53A8}.Debug|x64.ActiveCfg = Debug|x64
+		{3966AC16-A89A-4612-A081-55E4ADFE53A8}.Debug|x64.Build.0 = Debug|x64
+		{3966AC16-A89A-4612-A081-55E4ADFE53A8}.Debug|x86.ActiveCfg = Debug|Win32
+		{3966AC16-A89A-4612-A081-55E4ADFE53A8}.Debug|x86.Build.0 = Debug|Win32
+		{3966AC16-A89A-4612-A081-55E4ADFE53A8}.Release|x64.ActiveCfg = Release|x64
+		{3966AC16-A89A-4612-A081-55E4ADFE53A8}.Release|x64.Build.0 = Release|x64
+		{3966AC16-A89A-4612-A081-55E4ADFE53A8}.Release|x86.ActiveCfg = Release|Win32
+		{3966AC16-A89A-4612-A081-55E4ADFE53A8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F6CBA0-1749-4E34-AE06-47A63AE84664}
+	EndGlobalSection
+EndGlobal
